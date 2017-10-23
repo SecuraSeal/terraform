@@ -1986,10 +1986,10 @@
 			"revisionTime": "2016-09-27T10:08:44Z"
 		},
 		{
-			"checksumSHA1": "88oZlcrq2BeX4nvVWad2+Lf4WBs=",
+			"checksumSHA1": "G+b7ThNhFM7e0feLmVlieApvQEY=",
 			"path": "github.com/terraform-providers/terraform-provider-aws/aws",
-			"revision": "669207b8fee698ccc3fc47a7b99f812078b7ef87",
-			"revisionTime": "2017-09-01T13:33:06Z"
+			"revision": "fa7f4247a3385885de1c8b53346ccf68b718ab82",
+			"revisionTime": "2017-10-23T19:08:53Z"
 		},
 		{
 			"checksumSHA1": "7WDq0VsOJmABPUCEvfuerEp7mBg=",
